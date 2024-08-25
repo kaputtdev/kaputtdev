@@ -1,3 +1,8 @@
+## Bem vindo ao meu GitHub 👋
+
+
+<img src="https://camo.githubusercontent.com/50fe7dff397c381218fd9a0747b07b76a345643c92ca40a5c92895e422d5e0a9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d69636861656c6564756172646f6f2d6769746875622d757365726e616d65" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=kaputtdev-github-username" style="max-width: 100%;">
+
 ## Software Developer | Apaixonado por Tecnologia
 
 
@@ -38,3 +43,5 @@ Ensino superio em Analise e desenvolvimento de sistemas - UNIP
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/HKRVPZWN77XZL1)
 
 ![Kaputt GitHub stats](https://github-readme-stats.vercel.app/api?username=kaputtdev&show_icons=true&theme=dark)
+
+![Kaputt GitHub stats](https://img.shields.io/github/watchers/{kaputtdev}/{repo-name}.svg)
