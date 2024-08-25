@@ -6,7 +6,7 @@
 ## Software Developer | Apaixonado por Tecnologia
 
 
-Desenvolvedor de software com ampla experiência em programação projetos, focado na coordenação e gestão de rrojetos para empresar de pequeno e médio porte. Dedicado à melhoria contínua e à excelência técnica, tenho um impacto significativo na documentação de projetos e na resolução de problemas complexos em equipes multifuncionais.
+Desenvolvedor de software com experiência em projetos, focado na coordenação e gestão de equipe para empresas de pequeno porte. Dedicado à melhoria contínua e à excelência técnica, tenho um impacto significativo na documentação de projetos e na resolução de problemas complexos em equipes multifuncionais.
 
 ## 🛠️ Habilidades Técnicas
 
