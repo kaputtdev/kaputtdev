@@ -42,5 +42,17 @@ Ensino superio em Analise e desenvolvimento de sistemas - UNIP
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-freitas-q153/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlf.contato@gmail.com)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/HKRVPZWN77XZL1)
 
-![Kaputt GitHub stats](https://github-readme-stats.vercel.app/api?username=kaputtdev&show_icons=true&theme=dark)
 
+
+
+#include <stdio.h>
+
+int main() {
+    
+
+
+    printf("Obrigado por verificar minha pagina!\n");
+
+    return 0;
+
+}
