@@ -45,7 +45,7 @@ Reconhecido por aprimorar a documentação de projetos, facilitando a manutenç�
 Participação ativa em comunidades de desenvolvimento open source, contribuindo para projetos que impactam positivamente a indústria.
 
 ## 🎓 Educação
-- Ensino superio em Analise e desenvolvimento de sistemas - UNIP
+- Ensino superior em Analise e desenvolvimento de sistemas - UNIP
 ## 📧 Conecte-se comigo:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-freitas-q153/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlf.contato@gmail.com)
