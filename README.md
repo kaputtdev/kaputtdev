@@ -17,6 +17,8 @@ Desenvolvedor de software com ampla experiência em programação projetos, foca
   <img align="center" alt="css" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)" />
+ <img align="center" alt="c#" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" />
+
 </div><br/>
 
 ## 📈 Experiência Profissional
@@ -36,7 +38,7 @@ Reconhecido por aprimorar a documentação de projetos, facilitando a manutenç�
 Participação ativa em comunidades de desenvolvimento open source, contribuindo para projetos que impactam positivamente a indústria.
 
 ## 🎓 Educação
-Ensino superio em Analise e desenvolvimento de sistemas - UNIP
+- Ensino superio em Analise e desenvolvimento de sistemas - UNIP
 ## 📧 Conecte-se comigo:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-freitas-q153/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlf.contato@gmail.com)
