@@ -36,6 +36,6 @@ Ensino superio em Analise e desenvolvimento de sistemas - UNIP
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-freitas-q153/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davidlf.contato@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlf.contato@gmail.com)
 
 https://img.shields.io/github/watchers/{username}/{repo-name}.svg
