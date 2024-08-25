@@ -44,4 +44,3 @@ Ensino superio em Analise e desenvolvimento de sistemas - UNIP
 
 ![Kaputt GitHub stats](https://github-readme-stats.vercel.app/api?username=kaputtdev&show_icons=true&theme=dark)
 
-![Kaputt GitHub stats](https://img.shields.io/github/watchers/{kaputtdev}/{repo-name}.svg)
