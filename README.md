@@ -32,7 +32,7 @@ Desenvolvedor de software com experiência em projetos, focado na coordenação 
 
 Desenvolvedor de Software
 
-Empresas de pequeno
+Empresas de pequeno Porte
 
 - Projetar, desenvolver e implementar sistemas web de alta performance e escalabilidade.
 - Manutenção e atualização de sistemas legados, garantindo sua eficiência e segurança.
